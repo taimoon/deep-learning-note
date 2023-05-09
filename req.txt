@@ -4,8 +4,8 @@ networkx
 jupyter
 matplotlib
 scikit-learn
-# disable url below if you don't use cuda gpu
+# disable url below if you don't use cuda gpu 
 # --extra-index-url https://download.pytorch.org/whl/cu118
-torch      
+torch
 torchvision
 torchaudio
