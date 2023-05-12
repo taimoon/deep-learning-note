@@ -3,7 +3,7 @@
 reference
 data
 results
-model
+model_checkpoint
 *.zip
 *\ipynb_checkpoints
 ignore
