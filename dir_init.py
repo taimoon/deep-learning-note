@@ -3,7 +3,7 @@ from os.path import abspath
 from os import getcwd,makedirs,listdir
 from subprocess import run
 
-for dir in ('data','results','results/history'):
+for dir in ('data','results','results/history', 'save_results', 'save_results/visualization'):
     makedirs(dir,exist_ok=True)
     
 dir = ".env"
